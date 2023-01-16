@@ -1,0 +1,386 @@
+@relation out2
+
+@attribute NomSociete {Accytime,'Adria Business & Technology',Altados,'ALTEN Maroc','Alter Ipso',Aria,'ARIA Tech',Atos,'Atos ','Attijariwafa bank','AXA Group Operations Maroc','AXA Rabat (Axa Services)','BMCI Groupe BNP Paribas',Capgemini,'CGI Technologies et Solutions Maroc',Cnexia,'Deloitte Nearshore',DEVINK,DigitalentRH,'DXC Technology Maroc','Eca Assurances','Econocom Maroc','EnerGetic Link',Eumatech,'Excel Management Conseil','Groupe Adaming','Groupe Label Vie','Hit Radio','HPS Maroc',Intelcia,'Intelcia ITS',Intelcom,'INTM Mediterranée',Involys,'La Marocaine vie','LCI Education','Leet initiative',Leyton,'Lydec et SUEZ',Majorel,'Manpower Agences','Maroc Climate and Security (MCS) - Carrier','Meski Invest - Riva Industries',Neosys,OBS,'Oceane Consulting',Omnishore,Opus.RH,'ORH Assessment','Perenity Software',Preci,ReKrute,Richbond,'Sitel Group','Société Générale Maroc','Sofrecom Services Maroc','SQLI Maroc',TeamDEV,'TNC  The Next Clic ',Umanis,'Utac Ceram Maroc','Webhelp Maroc',Welink}
+@attribute Python {false,true}
+@attribute Java {false,true}
+@attribute Html {false,true}
+@attribute Css {false,true}
+@attribute Js {false,true}
+@attribute Sql {false,true}
+@attribute Laravel {false,true}
+
+@data
+Accytime,false,false,false,false,false,false,false
+'Adria Business & Technology',false,false,false,false,false,false,false
+'Adria Business & Technology',false,true,false,false,true,false,false
+Altados,true,true,false,false,true,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,true,false,false,false,false,false
+Altados,false,true,false,false,false,false,false
+Altados,false,false,false,false,false,true,false
+Altados,false,true,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,true,false
+Altados,false,false,false,false,false,true,false
+Altados,false,true,true,false,false,true,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,true,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,true,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,true,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,true,false,false,false,true,false
+Altados,false,true,false,false,false,false,false
+Altados,false,true,true,false,false,true,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,true,false
+Altados,false,true,true,true,true,true,false
+Altados,false,true,true,false,true,true,false
+Altados,false,true,false,false,true,true,false
+Altados,false,false,false,false,false,true,false
+Altados,false,true,false,false,false,true,false
+Altados,true,true,true,false,true,false,false
+Altados,false,true,false,false,false,true,false
+Altados,false,true,true,false,false,true,false
+Altados,false,true,false,false,false,true,false
+Altados,false,false,false,false,false,true,false
+Altados,true,false,false,false,false,true,false
+Altados,false,true,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+Altados,false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,true,true,true,true,true,false
+'ALTEN Maroc',true,true,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',true,false,false,false,false,false,false
+'ALTEN Maroc',false,true,true,true,true,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,true,true,true,true,true,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'ALTEN Maroc',true,false,false,false,false,false,false
+'ALTEN Maroc',false,false,false,false,false,false,false
+'Alter Ipso',false,true,true,true,true,true,false
+Aria,false,true,true,true,true,true,false
+Aria,false,false,false,false,false,false,false
+Aria,false,false,false,false,false,false,false
+Aria,false,false,false,false,false,false,false
+'ARIA Tech',false,true,false,true,false,false,false
+'ARIA Tech',false,true,true,true,false,false,false
+'ARIA Tech',false,true,true,true,false,false,false
+'ARIA Tech',false,true,true,true,false,false,false
+'ARIA Tech',true,true,false,false,true,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,true,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,true,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+'Atos ',false,false,false,false,false,false,false
+'Atos ',false,true,false,false,false,true,false
+Atos,false,false,false,false,false,false,false
+Atos,false,false,false,false,false,false,false
+Atos,false,true,false,false,false,false,false
+Atos,false,true,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,true,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'Attijariwafa bank',false,false,false,false,false,false,false
+'AXA Group Operations Maroc',false,false,false,false,false,false,false
+'AXA Group Operations Maroc',false,false,false,false,false,false,false
+'AXA Group Operations Maroc',false,false,false,false,false,false,false
+'AXA Group Operations Maroc',false,false,false,false,false,false,false
+'AXA Rabat (Axa Services)',false,false,false,false,false,false,false
+'AXA Rabat (Axa Services)',false,false,false,false,false,false,false
+'BMCI Groupe BNP Paribas',false,false,false,false,false,false,false
+'BMCI Groupe BNP Paribas',false,false,false,false,false,false,false
+'BMCI Groupe BNP Paribas',false,false,false,false,false,true,false
+'BMCI Groupe BNP Paribas',false,false,false,false,false,false,false
+'BMCI Groupe BNP Paribas',false,false,false,false,false,false,false
+'BMCI Groupe BNP Paribas',false,false,false,false,false,false,false
+Capgemini,false,true,false,false,false,false,false
+'CGI Technologies et Solutions Maroc',false,false,false,false,false,false,false
+'CGI Technologies et Solutions Maroc',false,false,false,false,false,false,false
+'CGI Technologies et Solutions Maroc',false,true,false,false,false,false,false
+'CGI Technologies et Solutions Maroc',false,true,false,false,true,false,false
+'CGI Technologies et Solutions Maroc',false,false,false,false,false,false,false
+'CGI Technologies et Solutions Maroc',false,true,false,false,false,false,false
+'CGI Technologies et Solutions Maroc',false,false,false,false,false,false,false
+'CGI Technologies et Solutions Maroc',false,false,false,false,false,false,false
+'CGI Technologies et Solutions Maroc',false,true,false,false,true,false,false
+'CGI Technologies et Solutions Maroc',false,false,false,false,false,false,false
+Cnexia,false,false,false,false,false,false,false
+Cnexia,false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+'Deloitte Nearshore',false,false,false,false,false,false,false
+DEVINK,false,false,false,false,false,false,false
+DigitalentRH,false,false,false,false,false,true,false
+'DXC Technology Maroc',false,false,false,false,false,true,false
+'DXC Technology Maroc',false,false,false,false,false,false,false
+'DXC Technology Maroc',false,false,false,false,false,false,false
+'DXC Technology Maroc',false,false,false,false,false,true,false
+'DXC Technology Maroc',false,false,false,false,false,false,false
+'DXC Technology Maroc',true,false,false,false,false,true,false
+'DXC Technology Maroc',false,false,false,false,false,false,false
+'DXC Technology Maroc',false,true,false,false,false,false,false
+'DXC Technology Maroc',false,false,false,false,false,false,false
+'Eca Assurances',false,false,false,false,false,true,true
+'Econocom Maroc',false,false,false,false,false,false,false
+'EnerGetic Link',false,false,false,false,false,false,false
+Eumatech,false,true,false,false,true,false,false
+Eumatech,false,false,false,false,false,true,false
+'Excel Management Conseil',false,false,false,false,false,false,false
+'Excel Management Conseil',false,false,false,false,false,true,false
+'Excel Management Conseil',false,false,false,false,false,true,false
+'Groupe Adaming',false,false,false,false,false,true,false
+'Groupe Adaming',false,true,false,false,false,true,false
+'Groupe Label Vie',false,false,false,false,false,false,false
+'Groupe Label Vie',false,false,false,false,false,false,false
+'Hit Radio',false,false,false,false,false,false,false
+'Hit Radio',false,false,false,false,false,false,false
+'Hit Radio',false,false,false,false,false,false,false
+'Hit Radio',true,true,true,true,true,true,false
+'Hit Radio',false,false,false,false,false,false,false
+'Hit Radio',false,false,false,false,false,false,false
+'Hit Radio',false,false,false,false,false,false,false
+'Hit Radio',false,false,false,false,false,false,false
+'HPS Maroc',false,false,false,false,false,false,false
+'HPS Maroc',false,false,false,false,false,false,false
+Intelcia,false,false,false,false,false,false,false
+'Intelcia ITS',false,false,false,false,false,false,false
+'Intelcia ITS',false,false,false,false,false,false,false
+'Intelcia ITS',false,false,false,false,false,true,true
+'Intelcia ITS',false,false,false,false,false,false,false
+'Intelcia ITS',false,false,false,false,false,false,false
+'Intelcia ITS',false,false,false,false,false,false,false
+'Intelcia ITS',false,false,false,false,false,true,false
+'Intelcia ITS',false,false,false,false,false,false,false
+'Intelcia ITS',false,true,false,false,false,true,false
+'Intelcia ITS',false,true,false,false,false,true,false
+Intelcom,false,false,false,false,false,false,false
+Intelcom,false,false,false,false,false,false,false
+'INTM Mediterranée',false,false,false,false,false,false,false
+'INTM Mediterranée',false,false,false,false,false,false,false
+'INTM Mediterranée',false,false,false,false,false,false,false
+'INTM Mediterranée',false,false,false,false,false,false,false
+Involys,false,true,false,true,true,true,false
+Involys,false,false,false,false,false,false,false
+Involys,false,false,false,false,false,true,false
+Involys,false,false,false,false,false,false,false
+'La Marocaine vie',false,true,false,false,false,false,false
+'LCI Education',false,false,false,false,false,false,false
+'LCI Education',false,false,false,false,false,false,false
+'Leet initiative',false,true,true,true,false,false,false
+Leyton,false,false,false,false,false,false,false
+Leyton,false,false,false,false,false,false,false
+'Lydec et SUEZ',false,false,false,false,false,false,false
+'Lydec et SUEZ',false,false,false,false,false,false,false
+Majorel,false,false,false,false,false,false,false
+'Manpower Agences',false,false,false,false,false,false,false
+'Manpower Agences',false,false,false,false,false,false,false
+'Manpower Agences',false,false,false,false,false,false,false
+'Manpower Agences',false,false,false,false,false,false,false
+'Manpower Agences',false,true,false,false,false,false,false
+'Maroc Climate and Security (MCS) - Carrier',false,false,false,false,false,false,false
+'Maroc Climate and Security (MCS) - Carrier',false,false,false,false,false,false,false
+'Maroc Climate and Security (MCS) - Carrier',false,false,true,false,false,false,false
+'Meski Invest - Riva Industries',false,false,false,false,false,false,false
+Neosys,false,false,false,false,false,false,false
+Neosys,false,false,false,false,false,true,false
+Neosys,false,false,true,true,false,false,false
+Neosys,false,false,false,false,false,false,false
+OBS,false,true,false,false,false,false,false
+OBS,false,false,false,false,false,false,false
+OBS,false,true,true,false,false,true,false
+OBS,false,true,false,false,true,false,false
+OBS,false,true,false,false,false,true,false
+OBS,false,true,false,false,false,true,false
+OBS,false,true,false,false,false,false,false
+OBS,false,true,false,false,false,false,false
+OBS,false,true,true,true,false,true,false
+OBS,false,true,false,false,false,true,false
+OBS,false,false,false,false,false,true,false
+OBS,false,false,false,false,false,true,false
+OBS,true,false,false,false,false,true,false
+OBS,false,false,false,false,false,false,false
+OBS,false,true,false,false,false,false,false
+OBS,false,true,false,false,true,true,false
+OBS,false,true,true,true,false,true,false
+OBS,false,true,false,false,true,true,false
+'Oceane Consulting',false,true,false,false,false,true,false
+'Oceane Consulting',false,false,false,false,false,true,false
+'Oceane Consulting',true,false,false,false,false,true,false
+'Oceane Consulting',false,false,false,false,false,true,false
+'Oceane Consulting',true,false,false,false,false,true,false
+'Oceane Consulting',false,false,false,false,false,true,false
+Omnishore,false,false,false,false,false,false,false
+Omnishore,false,false,false,false,false,false,false
+Omnishore,false,true,false,false,false,false,false
+Omnishore,false,true,false,false,false,false,false
+Opus.RH,false,false,false,false,false,false,false
+'ORH Assessment',false,false,false,false,false,false,false
+'Perenity Software',false,true,true,true,true,false,false
+'Perenity Software',false,true,true,true,true,false,false
+'Perenity Software',false,true,false,false,false,true,false
+'Perenity Software',false,false,false,false,false,false,false
+Preci,false,false,false,false,false,false,false
+Preci,false,false,false,false,false,false,false
+Preci,false,false,false,false,false,false,false
+Preci,false,false,false,false,false,false,false
+Preci,false,false,false,false,false,false,false
+Preci,false,true,false,false,false,true,false
+Preci,false,false,false,false,false,false,false
+Preci,false,true,false,false,false,true,false
+ReKrute,false,false,false,false,false,false,false
+Richbond,false,false,false,false,false,false,false
+'Sitel Group',true,false,false,false,false,false,false
+'Sitel Group',false,true,false,false,false,true,false
+'Sitel Group',false,false,false,false,false,false,false
+'Sitel Group',false,false,false,false,false,true,false
+'Sitel Group',false,false,false,false,false,false,false
+'Sitel Group',false,true,false,false,false,true,false
+'Société Générale Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,true,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',true,true,false,false,true,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',true,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,true,false
+'Sofrecom Services Maroc',false,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,true,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,true,false,false,false,true,false
+'Sofrecom Services Maroc',false,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,true,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,false,false
+'Sofrecom Services Maroc',true,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,true,false
+'Sofrecom Services Maroc',true,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,true,false,false,true,false,false
+'Sofrecom Services Maroc',true,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,true,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,true,true,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,true,false
+'Sofrecom Services Maroc',false,false,true,true,false,true,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,true,false
+'Sofrecom Services Maroc',false,true,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'Sofrecom Services Maroc',false,false,false,false,false,false,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,false,true,true,false,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',true,false,false,false,false,true,false
+'SQLI Maroc',false,false,false,false,false,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,true,false,false,false,true,false
+'SQLI Maroc',false,true,true,true,true,true,false
+'SQLI Maroc',false,false,false,false,false,false,false
+'SQLI Maroc',false,false,false,false,false,true,false
+'SQLI Maroc',false,true,false,false,false,true,false
+'SQLI Maroc',false,false,false,false,false,true,false
+'SQLI Maroc',false,false,false,false,false,false,false
+TeamDEV,false,false,false,false,false,true,false
+TeamDEV,false,false,false,false,false,true,false
+'TNC  The Next Clic ',false,true,false,false,false,false,false
+'TNC  The Next Clic ',false,false,false,false,false,false,false
+'TNC  The Next Clic ',false,true,true,true,true,false,false
+'TNC  The Next Clic ',false,false,false,false,false,false,false
+'TNC  The Next Clic ',false,true,true,true,true,false,false
+'TNC  The Next Clic ',false,false,false,false,false,false,false
+'TNC  The Next Clic ',false,false,false,false,false,false,false
+'TNC  The Next Clic ',false,false,false,false,false,false,false
+Umanis,false,false,false,false,false,false,false
+Umanis,false,false,false,false,false,false,false
+Umanis,false,true,true,false,true,true,false
+Umanis,false,false,false,false,false,false,false
+Umanis,false,false,false,false,false,false,false
+Umanis,false,false,false,false,false,true,false
+'Utac Ceram Maroc',false,false,false,false,false,false,false
+'Webhelp Maroc',false,false,false,false,false,false,false
+'Webhelp Maroc',false,false,false,false,false,true,false
+'Webhelp Maroc',false,false,false,false,false,false,false
+'Webhelp Maroc',false,false,false,false,false,false,false
+'Webhelp Maroc',false,false,false,false,false,false,false
+'Webhelp Maroc',false,false,false,false,false,false,false
+'Webhelp Maroc',false,false,false,false,false,true,false
+'Webhelp Maroc',false,true,true,true,true,true,false
+'Webhelp Maroc',true,true,false,false,false,false,false
+'Webhelp Maroc',false,false,false,false,false,false,false
+Welink,false,false,false,false,false,false,false
+Welink,false,false,false,false,false,false,false
+Welink,false,false,false,false,false,false,false
+Welink,false,false,false,false,false,false,false
+Welink,false,true,false,false,true,false,false
+Welink,false,true,true,true,true,true,false
+Welink,false,false,false,false,false,false,false
